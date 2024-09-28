@@ -9,7 +9,7 @@
 
   ## Estou aprendendo
   - node.js
-  - Estruturas de daos
+  - Estruturas de dados
   - Back-end
 
 ## Contatos:
