@@ -1,8 +1,8 @@
 ## Ola👋, meu nome é Vitória, Bem Vindo ao meu perfil"
 
 
-- 🔭 Atualmente estou trabalhando em um escritório contabil como assistente financeiro
-- 🌱 Atualmente estou aprendendo Java Script, e conteudos da faculdade de ADS
+- 🔭 Atualmente estou trabalhando a procura de um estágio
+- 🌱 Estou aprendendo Java Script, e conteudos da faculdade de ADS
 - 👯 Estou procurando colaborar em projetos e resolucoes de problemas
 - 😄 Pronomes: Ela/dela
 - ⚡ Curiosidade: sou Católica e irei para Italia um dia.
