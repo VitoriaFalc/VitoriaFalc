@@ -1,7 +1,5 @@
 ## Ola👋, meu nome é Vitória, Bem Vindo ao meu perfil"
 
-
-- 🔭 Atualmente estou trabalhando a procura de um estágio
 - 🌱 Estou aprendendo Java Script, e conteudos da faculdade de ADS
 - 👯 Estou procurando colaborar em projetos e resolucoes de problemas
 - 😄 Pronomes: Ela/dela
